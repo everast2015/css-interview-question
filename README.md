@@ -19,8 +19,6 @@
         color: green !important;
     }
 </style>
-
-
 <body>
     <div id="father" class="c1">
         <p id="son" class="c2">
@@ -30,8 +28,8 @@
 </body>
 ```
 
-解析：
 
+ 解析：
     这道题主要考察的就是`CSS` 权重的问题，我们知道
     - ID 权重 `0,1,0,0`
     - class 权重 `0,0,1,0`
