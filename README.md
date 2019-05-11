@@ -45,3 +45,21 @@
 
 
 2. 第二题
+
+```
+<style>
+    #father {
+        color: red;
+    }
+    p {
+        color: blue;
+    }
+</style>
+
+<body>
+    <div id="father">
+        <p>试问这行字体是什么意思？</p>
+    </div>
+</body>
+```
+
