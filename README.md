@@ -19,4 +19,13 @@
         color: green !important;
     }
 </style>
+
+
+<body>
+    <div id="father" class="c1">
+        <p id="son" class="c2">
+            试问这行字体是什么颜色的？
+        </p>
+    </div>
+</body>
 ```
