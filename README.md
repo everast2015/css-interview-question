@@ -113,3 +113,27 @@
 
 1. 可以为父元素定义1像素的上边距或上内边距
 2. 可以为父元素添加`overflow: hidden`
+
+方法一：
+
+```
+    <div class="father">
+        <div class="son"></div>
+    </div>
+
+    <style>
+        .father {
+            width: 200px;
+            height: 200px;
+            background-color: red;
+            margin-top: 100px;
+            border: 1px solid skyblue;
+        }
+        .son {
+            width: 100px;
+            height: 100px;
+            background-color: blue;
+            margin-top: 30px;
+        }
+    </style>
+```
