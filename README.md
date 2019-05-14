@@ -98,7 +98,7 @@
 
 当上下相邻的两个块元素相遇时，如果上面的元素有下外边距`margin-bottom`，下面的元素有上外边距`margin-top`，则他们之间的垂直间距不是`margin-bottom`与`margin-top`之和，而是两者中的较大者。这种现象被称为相邻快元素垂直外边距的合并（也称为外边距塌陷）。
 
-![垂直外边距的合并](https://github.com/yjn2015/css-interview/blob/master/img/css_margin_1.gif)
+<div align="center">![垂直外边距的合并](https://github.com/yjn2015/css-interview/blob/master/img/css_margin_1.gif)</div>
 
 解决的方案，避免就好的了，例如设置一个边距就可以的了
 
