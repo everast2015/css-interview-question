@@ -96,4 +96,4 @@
 
 ### 相邻快元素垂直外边距的合并
 
-当上下相邻的两个块元素相遇时，如果上面的元素有下外边距`margin-bottom`，下面的元素有上外边距`margin-top`，则他们之间的垂直间距不是`margin-bottom`与`margin-top`之和
+当上下相邻的两个块元素相遇时，如果上面的元素有下外边距`margin-bottom`，下面的元素有上外边距`margin-top`，则他们之间的垂直间距不是`margin-bottom`与`margin-top`之和，而是两者中的较大者。
