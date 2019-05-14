@@ -101,3 +101,6 @@
 ![垂直外边距的合并](https://github.com/yjn2015/css-interview/blob/master/img/css_margin_1.gif)
 
 解决的方案，避免就好的了，例如设置一个边距就可以的了
+
+
+### 嵌套快元素垂直外边距的合并
