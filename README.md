@@ -158,3 +158,15 @@
 ## 手机端遮罩层的制作
 
 手机端的遮罩层的制作的话，主要的就是高度的话，自适应屏幕的高度的，那么我们就采用`vh`高度的单位来制作的，然后采用定位的方式，可以把遮罩层放在相应的地方，搞定。
+
+```
+.active {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    display: block;
+    width: 100%;
+    height: 100vh;
+    background: rgba(0,0,0,0.3);
+}
+```
