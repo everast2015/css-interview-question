@@ -142,5 +142,14 @@
 
 方法：使用伪类的方法，然后设置`border-style` 的边可见，其他的隐藏，然后通过`transform: rotate()`旋转响应的角度即可。
 ```
+.filter dt:after {
+    content: '';
+    display: inline-block;
+    width: 4px;
+    height: 4px;
+    border: 1px solid #ccc;
+    border-style: solid none none solid;
+    transform: rotate(225deg);
+}
 
 ```
