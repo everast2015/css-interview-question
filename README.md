@@ -150,6 +150,7 @@
     border: 1px solid #ccc;
     border-style: solid none none solid;
     transform: rotate(225deg);
+    margin-left: .5rem;
 }
 
 ```
