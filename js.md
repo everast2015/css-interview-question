@@ -64,3 +64,5 @@ console.log(newArr); // [77,52,25]
         }
     console.log(newArr); // [2, 6, 1, 77, 52, 25, 7]
 ```
+
+4. 翻转数组
