@@ -70,3 +70,11 @@ console.log(newArr); // [77,52,25]
 1. 声明一个新数组`newArr`
 2. 把旧数组索引号第四个取过来`(arr.length - 1)`，给新数组索引号第0个元素`(newArr.length)`
 3. 我们采用递减的方式 `i--`
+```js
+var arr = ['red','green','blue','pink','purple'];
+var newArr = [];
+for(var i = arr.length-1, i >= 0; i--) {
+
+}
+
+```
