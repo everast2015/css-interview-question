@@ -66,3 +66,4 @@ console.log(newArr); // [77,52,25]
 ```
 
 4. 翻转数组
+要求：将数组`['red','green','blue','pink','purple']`
