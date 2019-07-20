@@ -81,3 +81,5 @@ for(var i = arr.length-1; i >= 0; i--) {
 document.write(newArr); // purple,pink,blue,green,red
 
 ```
+
+5. 数组冒泡排序
