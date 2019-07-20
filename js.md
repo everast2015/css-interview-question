@@ -44,5 +44,5 @@ for(var i = 0; i< arr.length; i++){
         j++
     }
 }
-console.log(newArr);
+console.log(newArr); // [77,52,25]
 ```
