@@ -83,3 +83,5 @@ document.write(newArr); // purple,pink,blue,green,red
 ```
 
 5. 数组冒泡排序
+
+冒泡排序：是一种算法，把一系列的数据按照一定的顺序进行排列显示（从小到大或从大到小）
