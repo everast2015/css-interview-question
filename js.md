@@ -46,3 +46,5 @@ for(var i = 0; i< arr.length; i++){
 }
 console.log(newArr); // [77,52,25]
 ```
+
+3. 删除指定数组中的元素
