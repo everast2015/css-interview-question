@@ -40,6 +40,9 @@ var j = 0;
 for(var i = 0; i< arr.length; i++){
     if(arr[i] > 10) {
         // 新数组应该从0开始，依次类推
+        newArr[j] = arr[i]
+        j++
     }
 }
+console.log(newArr);
 ```
