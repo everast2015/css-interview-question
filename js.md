@@ -74,7 +74,7 @@ console.log(newArr); // [77,52,25]
 var arr = ['red','green','blue','pink','purple'];
 var newArr = [];
 for(var i = arr.length-1, i >= 0; i--) {
-
+    newArr[newArr.length] = arr[i]
 }
 
 ```
